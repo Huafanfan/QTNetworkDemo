@@ -1,3 +1,10 @@
+//
+//  QTNConst.cpp
+//  QTNetworkDemo
+//
+//  Created by mugx on 04/03/12.
+//  Copyright (c) 2015 mugx. All rights reserved.
+
 #include "QTNConst.h"
 
 const char* QTNConst::SERVER_IP = "127.0.0.1";

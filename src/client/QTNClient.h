@@ -1,3 +1,10 @@
+//
+//  QTNClient.h
+//  QTNetworkDemo
+//
+//  Created by mugx on 04/03/12.
+//  Copyright (c) 2015 mugx. All rights reserved.
+
 #ifndef QTNClient_h
 #define QTNClient_h
 

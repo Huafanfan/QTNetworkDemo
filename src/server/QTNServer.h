@@ -1,3 +1,10 @@
+//
+//  QTNServer.h
+//  QTNetworkDemo
+//
+//  Created by mugx on 04/03/12.
+//  Copyright (c) 2015 mugx. All rights reserved.
+
 #ifndef QTNServer_H
 #define QTNServer_H
 

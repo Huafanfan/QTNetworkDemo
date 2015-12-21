@@ -1,3 +1,10 @@
+//
+//  QTNetworkDemo.cpp
+//  QTNetworkDemo
+//
+//  Created by mugx on 04/03/12.
+//  Copyright (c) 2015 mugx. All rights reserved.
+
 #include "QTNetworkDemo.h"
 #include "client/QTNClient.h"
 #include "server/QTNServer.h"
