@@ -7,4 +7,5 @@ The client/server demo is made by the following steps:
 
 * Each second the server outputs the IP addresses of the connected clients.
 * If a client connects to the TCP server port 5678 (e.g.), a welcome message is sent to the client than printed on console.
-* After 3 seconds the client sends a logout message to the server, than it receives a goodbye message from the server and ends the client application.
+* After 3 seconds the client sends a logout message to the server, than it receives a goodbye message from the server and ends the client application
+.
